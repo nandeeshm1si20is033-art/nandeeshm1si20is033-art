@@ -1,132 +1,205 @@
 # Hi, I'm Nandeesh M 👋
 
-### Software Engineer | Backend Development | Distributed Systems
+### Software Engineer | Backend Engineering | Cloud & Distributed Systems | AI/ML
 
-I'm a Software Engineer with experience in enterprise application development at **Manhattan Associates**.
+Software Engineer with experience building enterprise applications, backend services, and cloud-native solutions.
 
-I enjoy solving complex engineering problems, building backend applications, understanding distributed systems, and developing software that is scalable, maintainable, and reliable.
+Currently working at **Manhattan Associates**, developing and enhancing enterprise Warehouse Management System (WMOS) applications using Java, Spring Boot, and C++.
 
-Currently focused on strengthening my backend engineering skills, exploring system design, and building real-world full-stack applications.
+Previously worked at **Rakuten India**, contributing to DevOps automation, Kubernetes deployments, distributed database monitoring, and AI-powered internal applications.
 
----
-
-## 🚀 About Me
-
-- 💻 Software Engineer at **Manhattan Associates**
-- ⚙️ Experienced in enterprise application development and production issue resolution.
-- ☕ Working with Java, C++, and backend technologies.
-- 🌱 Exploring Go, Spring Boot, Angular, and distributed systems.
-- 🐳 Interested in Docker, Kubernetes, CI/CD, and cloud-native development.
-- 🧠 Passionate about Data Structures, Algorithms, System Design, and Problem Solving.
-- 🎯 Working towards becoming a strong Backend / Senior Software Engineer.
+I enjoy building scalable backend systems, exploring distributed architectures, and solving real-world engineering problems.
 
 ---
 
-## 🛠️ Tech Stack
+## 👨‍💻 About Me
 
-### Programming Languages
+- 💼 Software Engineer at **Manhattan Associates**
+- ☁️ Previous experience at **Rakuten India – DevOps & Cloud Engineering**
+- ⚙️ Experienced in Java, Spring Boot, Golang, Python, and C++
+- 🐳 Hands-on experience with Docker, Kubernetes, Jenkins, EKS, and GKE
+- 🤖 Built LLM-powered applications using RAG and Ollama
+- 🔍 Interested in Backend Engineering, Distributed Systems, and System Design
+- 📚 Published research on Transformer-LSTM-based Network Intrusion Detection
+- 🎓 B.E. in Information Science and Engineering – Siddaganga Institute of Technology
+
+---
+
+## 🛠️ Technical Skills
+
+**Programming Languages**
+
 <p>
-  <img src="https://skillicons.dev/icons?i=java,go,cpp,js,ts" />
+  <img src="https://skillicons.dev/icons?i=java,go,python,cpp,js,ts" />
 </p>
 
-### Backend Development
+**Backend & Frameworks**
+
 <p>
-  <img src="https://skillicons.dev/icons?i=spring,nodejs,hibernate" />
+  <img src="https://skillicons.dev/icons?i=spring,flask,react" />
 </p>
 
-### Frontend Development
+Spring Boot • Spring JPA • Gin • Go Chi • SQLC • REST APIs
+
+**Frontend Development**
+
 <p>
-  <img src="https://skillicons.dev/icons?i=angular,html,css" />
+  <img src="https://skillicons.dev/icons?i=angular,react,html,css" />
 </p>
 
-### Databases
+**Databases & Messaging**
+
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,cassandra,redis,oracle" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,redis,kafka" />
 </p>
 
-### DevOps & Tools
+Cassandra • Couchbase • Oracle
+
+**Cloud, DevOps & Infrastructure**
+
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,git,github,linux,bash" />
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,aws,gcp,linux,bash,git,github" />
 </p>
+
+EKS • GKE • Rakuten OneCloud • GitHub Actions • CI/CD
+
+**AI / Machine Learning**
+
+- Large Language Models (LLMs)
+- Retrieval-Augmented Generation (RAG)
+- Ollama
+- PyTorch
+- OpenCV
+- MediaPipe
+- NumPy
 
 ---
 
 ## 💼 Professional Experience
 
-### Software Engineer — Manhattan Associates
-*Bengaluru, India | 2023 – Present*
+### Software Engineer | Manhattan Associates
+**September 2025 – Present**
 
-- Working on enterprise Warehouse Management System (WMS) applications.
-- Developing custom extensions and modifying existing business workflows.
-- Working with Java and C++ for enterprise application development.
-- Investigating and resolving production issues, including HTTP 500 errors, NullPointerExceptions, and transaction failures.
-- Performing root cause analysis, debugging, and defect resolution.
-- Working across Receiving, Putaway, Picking, and Shipping workflows.
-- Collaborating on application fixes and deployments.
+- Implementing custom extensions and product enhancements using Java, Spring, Spring Boot, and C++ for enterprise Warehouse Management System (WMOS).
+- Delivering solutions for enterprise clients in the France region.
+- Resolving complex production issues through code analysis, debugging, and root cause analysis.
+- Troubleshooting database-related issues and supporting deployments in on-premises customer environments.
+- Working with microservices-based Active Warehouse Management architecture.
 
-### System Administrator — Tata Consultancy Services
-*Bengaluru, India | 2020 – 2021*
+### System Engineer – DevOps | Rakuten India
+**August 2024 – March 2025**
 
-- Experience in enterprise IT infrastructure and system administration.
+- Monitored and troubleshot services deployed on AWS EKS, GKE, and Rakuten OneCloud.
+- Designed and implemented Jenkins pipelines to automate CI/CD workflows.
+- Managed distributed database clusters including Couchbase, MySQL, and Cassandra.
+- Containerized applications using Docker and deployed them on Kubernetes.
+- Created and maintained Kubernetes manifests for application orchestration.
 
----
+### Software Engineer Intern | Rakuten India
+**February 2024 – July 2024**
 
-## 📌 Featured Projects
-
-I believe in learning by building. Here are some of the areas I'm working on:
-
-| Project | Technologies | Focus |
-|---|---|---|
-| Go Backend Services | Go | REST APIs, concurrency, backend development |
-| Full-Stack Applications | Java, Spring Boot, Angular | Full-stack development |
-| Distributed Systems | Go, PostgreSQL, Docker | Microservices and service communication |
-| Task Management Application | Angular, TypeScript | Component architecture and state management |
-
-Explore my repositories for implementation details and ongoing work.
+- Built an internal incident analytics dashboard integrating PagerDuty API, Ollama-hosted LLMs, Python, Flask, MySQL, React, and Chart.js.
+- Automated monthly incident report generation with dynamic data fetching and interactive visualizations.
+- Containerized applications using Docker and Docker Compose.
+- Developed an internal chatbot using RAG to help customers understand services and internal team information.
+- The incident reporting project saved the team 80+ hours monthly, as reported in the resume.
 
 ---
 
-## 📚 Currently Learning
+## 🚀 Featured Projects
 
-- Advanced Java and Spring Boot
-- Go programming and concurrency
+### 1. Quote Vote System
+**Go | Gin | SQLC | Docker | Kubernetes | GitHub Actions**
+
+- Developed a complete backend application using Golang.
+- Implemented database migrations, authentication, and transactional database operations.
+- Used Gin for HTTP routing and SQLC for type-safe database access.
+- Added unit tests for core functionalities.
+- Integrated Docker and GitHub Actions for containerization and continuous integration.
+
+### 2. Real-Time Network Intrusion Detection
+**Python | Transformer-LSTM | PyTorch | Kafka | ELK | MySQL**
+
+- Developed a real-time network traffic analysis and threat detection system.
+- Implemented deep learning models combining Transformer and LSTM architectures.
+- Built a web dashboard for traffic monitoring, threat analysis, and alerts.
+- Integrated Kafka and ELK for data processing and monitoring.
+
+### 3. Clean Environ – Full Stack Java Application
+**Java | Spring Boot | Spring JPA | Maven | MySQL**
+
+- Developed a complaint registration and resolution platform for waste management.
+- Enabled users to report waste-related issues with location information and images.
+- Implemented complaint tracking and priority-based resolution workflows.
+- Designed a reward mechanism to encourage civic participation.
+
+### 4. Gesture-Controlled Gaming Application
+**Python | OpenCV | MediaPipe | Streamlit | NumPy**
+
+- Developed a web-based gaming application controlled through body gestures.
+- Used computer vision and real-time gesture recognition.
+- Integrated MediaPipe and OpenCV for gesture tracking.
+
+### 5. Mate Space – Social Networking Platform
+**HTML | CSS | JavaScript | PHP | MySQL**
+
+- Built a social networking platform for college students.
+- Enabled content sharing, following users, and interest-based discovery.
+- Designed features to connect students within a college ecosystem.
+
+---
+
+## 📖 Research Publication
+
+**A Real-Time Network Intrusion Detection Based on Transformer-LSTM Model**
+
+- Published: December 2024
+- Research area: Network Security and Deep Learning
+- Co-authors: Sai Sonal G, Nandeesh M, Jeevan G, Mohammed Adnan, Dr. Jayana H S.
+- Publication identifier: MPCIT62449.2024.10892727
+
+---
+
+## 🎯 Current Engineering Interests
+
+- Backend Engineering and Scalable REST APIs
 - Microservices Architecture
-- Distributed Systems Design
+- Distributed Systems
 - Database Design and Optimization
-- Docker and Kubernetes
-- System Design and Design Patterns
-- Angular and Full-Stack Development
+- Cloud-Native Applications
+- System Design and Software Architecture
+- AI Integration in Software Engineering
 
 ---
 
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Nandeesh-mod&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nandeesh-mod&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=Nandeesh-mod&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-## 🤝 Let's Connect
+## 🤝 Connect With Me
 
-<p>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+<p align="left">
+  <a href="https://www.linkedin.com/in/nandeesh-m-a7068b1ba">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
   </a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" />
+  <a href="https://github.com/Nandeesh-mod">
+    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github"/>
   </a>
 </p>
 
-📧 Email: YOUR_EMAIL
+📧 **Email:** nandeeshm2020@gmail.com
 
 ---
 
 <p align="center">
-  <i>"Building, breaking, learning, and engineering better software every day."</i>
+  <i>Building scalable systems, automating infrastructure, and engineering solutions to real-world problems.</i>
 </p>
